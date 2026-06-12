@@ -1,9 +1,7 @@
 const words = [
-    "Cloud Engineer",
-    "DevOps Engineer",
-    "Entrepreneur",
-    "AI Enthusiast",
-    "Founder"
+    "Cloud & DevOps Engineer",
+    "Tech Blogger",
+    "AI Enthusiast",    
 ];
 
 let wordIndex = 0;
